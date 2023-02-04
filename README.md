@@ -1,3 +1,3 @@
-# jekyll-dracula-syntax-hightlight
+# jekyll-dracula-syntax
 
 Dracula syntax highligting theme for Jekyll.
