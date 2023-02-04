@@ -2,6 +2,10 @@
 
 Dracula syntax highligting theme for Jekyll.
 
+See examples on my blog - <https://blog.bravewaffles.io/jekyll-dracula-syntax>
+
+## `sass` code from my `.highlight.sass` file
+
 ```css
 .highlight {
   background-color: #22212C;
