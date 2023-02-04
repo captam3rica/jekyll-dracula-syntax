@@ -1,6 +1,6 @@
 # jekyll-dracula-syntax
 
-Dracula syntax highligting theme for Jekyll.
+A dark theme for code highlighting in Jekyll.
 
 See examples on my blog - <https://blog.bravewaffles.io/jekyll-dracula-syntax>
 
