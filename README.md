@@ -4,7 +4,7 @@ A dark theme for code highlighting in Jekyll.
 
 See examples on my blog - <https://blog.bravewaffles.io/jekyll-dracula-syntax>
 
-## `sass` code from my `.highlight.sass` file
+`sass` code from my `.highlight.sass` file
 
 ```css
 .highlight {
